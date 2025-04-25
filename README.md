@@ -5,7 +5,7 @@ This repository hosts the **official landing page** for **X-COMP PLANET RECLAMAT
 ## 🌐 Website & Download
 
 Visit the official site to **download the game** and get the latest updates:  
-👉 [Official Website](#)
+👉 https://rarfar.github.io/X-COMP-Planet-Reclamation-OFFICIAL/
 
 ---
 

@@ -100,3 +100,30 @@ body {
   color: #4eb3e3;
   text-decoration: underline;
 }
+/* Play Online Container */
+.play-online-container {
+  margin-top: 20px;
+  background: rgba(0, 0, 0, 1); /* Solid black */
+  padding: 20px 30px;
+  border-radius: 8px;
+  width: auto;
+}
+
+.play-online-text {
+  color: #ccc;
+  font-size: 1rem;
+}
+
+/* Play Online Link Styling */
+.play-online-link {
+  color: #85d1f0;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.2s;
+}
+
+.play-online-link:hover {
+  color: #4eb3e3;
+  text-decoration: underline;
+}
+
